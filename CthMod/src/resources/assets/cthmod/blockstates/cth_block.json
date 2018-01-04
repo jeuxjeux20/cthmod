@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "cthmod:cth_block" },
+        "inventory": { "model": "cthmod:cth_block" }
+    } 	
+}

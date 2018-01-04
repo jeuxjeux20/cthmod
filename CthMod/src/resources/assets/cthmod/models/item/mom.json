@@ -1,0 +1,6 @@
+{
+    "parent":"cthmod:item/default_item",
+    "textures": {
+        "layer0":"cthmod:items/mom_item"
+    }    
+}

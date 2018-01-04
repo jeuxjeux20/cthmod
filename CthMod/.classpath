@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="src" path="src/resources"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Forge"/>
+	<classpathentry kind="lib" path="C:/Users/jeuxj/.gradle/caches/minecraft/net/minecraftforge/forge/1.8-11.14.4.1577/snapshot/20141130/forgeSrc-1.8-11.14.4.1577.jar" sourcepath="C:/Users/jeuxj/.gradle/caches/minecraft/net/minecraftforge/forge/1.8-11.14.4.1577/snapshot/20141130/forgeSrc-1.8-11.14.4.1577-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

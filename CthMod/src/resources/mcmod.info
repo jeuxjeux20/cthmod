@@ -1,0 +1,12 @@
+[{
+  "modid": "cthmod",
+  "name": "Cth MOD",
+  "description": "The legendary mod of CTH",
+  "version": "1.0.0.0",
+  "mcversion": "1.8",
+  "logoFile": "assets/cthmod/textures/items/mom_item.png",
+  "url": "https://github.com/cthpw103/",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["cth103","jeuxjeux20"],
+  "credits": "CTH103 FOR EXISITING"
+}]
