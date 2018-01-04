@@ -24,4 +24,8 @@ hs_err_pid*
 
 # world save
 **/saves/
+saves/
+CthMod/saves
+saves/**
+saves/*
 options.txt
